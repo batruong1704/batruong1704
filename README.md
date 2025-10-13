@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Special Ability: Sleep Overtime<br>📚 Currently: Intern in Mobifone<br>💫 Take mom around the world<br>📧 Email: batruong1704@gmail.com<br>ℹ️ More Information: is a good man</p>
+<p align="left">✨ Special Ability: Sleep Overtime<br>📚 Currently: Developer in Mobifone IT<br>💫 Take mom around the world<br>📧 Email: batruong1704@gmail.com<br>ℹ️ More Information: is a good man</p>
 
 ###
 
