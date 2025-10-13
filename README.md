@@ -23,6 +23,8 @@
 ###
 
 <div align="left">
+  <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg](https://brandfetch.com/angularjs.org?view=library&library=default&collection=logos&asset=idYTeCz1zy&utm_source=https%253A%252F%252Fbrandfetch.com%252Fangularjs.org&utm_medium=copyAction&utm_campaign=brandPageReferral)" height="40" alt="angular"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="40" alt="apache logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
@@ -40,6 +42,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/magento/magento-original.svg" height="40" alt="magento logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  
 </div>
 
 ###
