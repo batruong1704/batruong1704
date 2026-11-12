@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Bá Trường (Buck) and I'm a backend developer, from Vietnam</p>
+<p align="left">My name is Bá Trường (Frog) and I'm a backend developer, from Vietnam</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Special Ability: Sleep Overtime<br>📚 Currently: Developer in Mobifone IT<br>💫 Take mom around the world<br>📧 Email: batruong1704@gmail.com<br>ℹ️ More Information: is a good man</p>
+<p align="left">✨ Special Ability: Sleep Overtime<br>📚 Currently: Developer in Mobifone IT<br>💫 Take mom around the world<br>📧 Email: batruong1704@gmail.com<br>ℹ️ More Information: is a good person</p>
 
 ###
 
